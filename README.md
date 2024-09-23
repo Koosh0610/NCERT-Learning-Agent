@@ -10,6 +10,14 @@ NCERT AI Bot is an intelligent agent designed to enhance the learning experience
 4. **Exam Preparation**: Generate additional questions from examples to help you prepare for exams.
 5. **Mind Map Creator**: Visualize complex topics with automatically generated mind maps.
 
+## Workflow
+
+</div>
+
+<div align="center">
+<img src="ncert_bot.png">
+</div>
+
 ## Demo
 
 Check out our demo video to see the NCERT AI Bot in action:
