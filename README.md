@@ -18,7 +18,8 @@ Check out our demo video to see the NCERT AI Bot in action:
 
 ## Getting Started
 
-Follow these steps to set up and run the NCERT AI Bot:
+Ensure you have the necessary hardware:
+   - A GPU is required to run the bot efficiently. A T4 GPU will suffice.
 
 1. Clone the repository:
    ```
