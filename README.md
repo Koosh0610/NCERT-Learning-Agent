@@ -18,6 +18,39 @@ Check out our demo video to see the NCERT AI Bot in action:
 
 ## Getting Started
 
-[Include instructions on how to access or set up the bot]
+Follow these steps to set up and run the NCERT AI Bot:
+
+1. Clone the repository:
+   ```
+   https://github.com/Koosh0610/sarvam-hiring-task.git
+   ```
+
+2. Change to the project directory:
+   ```
+   cd sarvam-hiring-task
+   ```
+
+3. Install Python dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+
+4. Install system dependencies:
+   ```
+   sudo apt install $(cat packages.txt)
+   ```
+
+5. Set up the Groq API key:
+   - Sign up for a Groq API key at [https://console.groq.com/](https://console.groq.com/)
+   - Create a `.env` file in the project root directory
+   - Add your Groq API key to the `.env` file:
+     ```
+     GROQ_API_KEY=your_api_key_here
+     ```
+
+6. Run the NCERT AI Bot:
+   ```
+   python fastapi_server.py & streamlit run streamlit_app.py
+   ```
 
 We hope the NCERT AI Bot helps enhance your learning experience. Happy studying!
