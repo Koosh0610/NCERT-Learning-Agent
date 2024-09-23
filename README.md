@@ -22,6 +22,7 @@ NCERT AI Bot is an intelligent agent designed to enhance the learning experience
 
 Check out our demo video to see the NCERT AI Bot in action:
 
+![Video Preview](ncert_bot_demo.mp4)
 [NCERT AI Bot Demo](https://github.com/Koosh0610/sarvam-hiring-task/blob/main/ncert_bot_demo.mp4)
 
 ## Getting Started
