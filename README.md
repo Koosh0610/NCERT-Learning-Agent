@@ -45,7 +45,8 @@ Follow these steps to set up and run the NCERT AI Bot:
    - Create a `.env` file in the project root directory
    - Add your Groq API key to the `.env` file:
      ```
-     GROQ_API_KEY=your_api_key_here
+     GROQ_API_KEY = your_api_key_here
+     OPENAI_API_KEY = same_as_groq_api_key
      ```
 
 6. Run the NCERT AI Bot:
