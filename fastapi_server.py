@@ -10,7 +10,7 @@ from llama_index.llms.groq import Groq
 from llama_index.core.base.llms.generic_utils import messages_to_history_str
 from byaldi import RAGMultiModalModel
 from openai import OpenAI
-from utils_new import condense_prompt_template,agent_prompt, generate_mindmap, get_quiz_data, get_rag_answer
+from utils import condense_prompt_template,agent_prompt, generate_mindmap, get_quiz_data, get_rag_answer
 import logging
 #-------------------------------------------------#
 from dotenv import load_dotenv
