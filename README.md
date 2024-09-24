@@ -69,6 +69,6 @@ Ensure you have the necessary hardware:
 
 ## Limitations:
 1. As I am on free tier of Groq API, the pieline can process only one image at a time. Answer generation can be improved when more relevant images are given to the LLM.
-2. LLMs are poor writing complex xml code. Robust prompts need to written for better mindmaps or a small LORA finetuned LLM can be used for the same. At present, limited compute resources do not allow me to fine-tune for this task.
+2. LLMs are poor at writing complex xml code. Robust prompts need to written for better mindmaps or a small LORA finetuned LLM can be used for the same. At present, limited compute resources do not allow me to fine-tune for this task. Or, a LVLM can be used.
 
 We hope the NCERT AI Bot helps enhance your learning experience. Happy studying!
