@@ -15,7 +15,7 @@ NCERT AI Bot is an intelligent agent designed to enhance the learning experience
 </div>
 
 <div align="center">
-<img src="ncert_bot.png">
+<img src="assets/ncert_bot.png">
 </div>
 
 ## Demo
